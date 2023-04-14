@@ -1,0 +1,14 @@
+@import "base/variables";
+@import "base/mixins";
+@import "base/reboot";
+@import "base/typography";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "layout/header";
+@import "layout/footer";
+
+@import "bloc/test";
+@import "bloc/tailwind";
