@@ -1,4 +1,24 @@
 .env
 /node_modules
+/public/cache
+/public/debug.log
+/public/languages
+/public/mu-plugins/*
+/public/mu-plugins/mu-plugins.php
+/public/plugins/*
+/public/plugins/index.php
+/public/themes/*/assets
+/public/upgrade
+/public/uploads
+/public/wordpress
 /vendor
+/storage/views/
 auth.json
+# IDE / system
+.DS_Store
+/public/.DS_Store
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
